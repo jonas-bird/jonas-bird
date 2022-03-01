@@ -6,4 +6,4 @@ Tech support specialist and project/program manager. Adept at managing difficult
 
 ## Currently working on:
 
-I am currently earning the Udacity Programming Nano-degree as an Accenture Scholarship Program recipient. I am also working through some Docker and Kubernetes tutorials, oh and I am playing around with setting up XCP-ng on some old computers (hardware is too old for practical use) to get more experience administering VMs. I also keep threatening to re-learn Latin.
+I am currently earning the Udacity Programming Nano-degree as an Accenture Scholarship Program recipient. I am also working through some Docker and Kubernetes tutorials. I am playing around with setting up XCP-ng on old hardware to get more experience administering VMs. Finally, I keep threatening to re-learn Latin.
