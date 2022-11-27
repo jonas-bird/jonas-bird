@@ -1,7 +1,16 @@
 
-Hybrid Network/Cloud Engineer and coder. Adept at managing difficult projects, creating new business systems, and delivering corporate IT solutions. CCNA certified. Received Google IT Support Professional Certificate in Sept. 2020, covering troubleshooting, networking, operating systems, systems administration, and security, and Google IT Automation with Python in Dec. 2021, covering cloud and automation technologies. Currently looking for new career opportunities while sharpening my coding skills.
+I am a long term Linux enthusiast, who recently started coding. I have a background in electronics repair, and enjoy taking on DIY projects whenever I have time and/or space.  
+
+## Professional 
+Hybrid Network/Cloud Engineer and coder. Adept at managing difficult projects, creating new business systems, and delivering corporate IT solutions. Currently looking for new career opportunities while sharpening my coding skills.
 
 [My Resume](https://jonas-bird.github.io/Jonas-Bird-HTML-Resume/)
+
+### Certifications 
+Cisco Certified Network Associate: Nov. 2022  
+Google IT Automation with Python: Dec. 2021  
+Google IT Support Professional: Sep. 2020   
+
 
 ## Currently working on:
 
